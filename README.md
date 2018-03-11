@@ -22,7 +22,7 @@
 
 
 
-## CODE CONSTRUCTION:
+## Code Construction Details:
 
 **1.	GUI Setup:**
 The program starts with a GUI window with all the test images displayed and numbered. The user can pick one test image or choose to test all 40 test images at once and check the performance. 

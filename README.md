@@ -5,7 +5,7 @@ Programming Language: MATLAB
 
 OS: Windows
 
-Instructions:
+##Instructions:
 1) Start with opening and running the "main.m" file in the folder. 
 
 2) A GUI window will appear with all the test images labeled with a number, 
@@ -25,10 +25,7 @@ NOTE: If there are errors saying "vocab" not found delete all the pre-existing "
 
 
 
-CODE CONSTRUCTION:
-Mostly covered in the final report, and the comments in the code itself is very thorough too.
-
-In the report:
+##CODE CONSTRUCTION:
 1.	GUI Setup:
 The program starts with a GUI window with all the test images displayed and numbered. The user can pick one test 
 image or choose to test all 40 test images at once and check the performance. 

@@ -8,15 +8,15 @@
 
 ## Instructions:
 
-1. Start with opening and running the "main.m" file in the folder. 
+**1.** Start with opening and running the "main.m" file in the folder. 
 
-2. A GUI window will appear with all the test images labeled with a number, choose a test image or select "Test all 40 images!" to check the overall performance.
+**2.** A GUI window will appear with all the test images labeled with a number, choose a test image or select "Test all 40 images!" to check the overall performance.
 
-3. If this is your first time running the code, it will take a while as it is generating the vocabulary,forming histograms, and performing the Brute Force Method. You will see the iteration notices during the Brute Force Method.
+**3.** If this is your first time running the code, it will take a while as it is generating the vocabulary,forming histograms, and performing the Brute Force Method. You will see the iteration notices during the Brute Force Method.
 
-4. Variables such as the images, words, vocabulary and weight functions will be saved after the first run,making the code run much faster afterwards.
+**4.** Variables such as the images, words, vocabulary and weight functions will be saved after the first run,making the code run much faster afterwards.
 
-5. If you chose a specific test image at the start, the program will show the images that matches the test image. If you chose to test all 40, the results will show in the command window.
+**5.** If you chose a specific test image at the start, the program will show the images that matches the test image. If you chose to test all 40, the results will show in the command window.
 
 - **NOTE:** If there are errors saying "vocab" not found delete all the pre-existing ".mat" files in the folder and try again.
 
